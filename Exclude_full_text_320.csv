@@ -1,0 +1,321 @@
+﻿paper_ID,Include_Exclude,year,pubmed_id,url
+1,Exclude: Publication,2021,34059094,https://pubmed.ncbi.nlm.nih.gov/34059094/
+6,Exclude: Outcome,2021,33812497,https://pubmed.ncbi.nlm.nih.gov/33812497/
+13,Exclude: Study design,2021,33636453,https://pubmed.ncbi.nlm.nih.gov/33636453/
+17,Exclude: Outcome,2021,33581820,https://pubmed.ncbi.nlm.nih.gov/33581820/
+27,Exclude: Not in English,2020,33472996,https://pubmed.ncbi.nlm.nih.gov/33472996/
+35,Exclude: Publication,2020,33285743,https://pubmed.ncbi.nlm.nih.gov/33285743/
+42,Exclude: Patient,2020,33203399,https://pubmed.ncbi.nlm.nih.gov/33203399/
+46,Exclude: Study design,2021,33166719,https://pubmed.ncbi.nlm.nih.gov/33166719/
+49,Exclude: Study design,2021,33069888,https://pubmed.ncbi.nlm.nih.gov/33069888/
+50,Exclude: Patient,2020,33030582,https://pubmed.ncbi.nlm.nih.gov/33030582/
+58,Exclude: Outcome,2020,32961445,https://pubmed.ncbi.nlm.nih.gov/32961445/
+59,Exclude: Publication,2020,32955174,https://pubmed.ncbi.nlm.nih.gov/32955174/
+61,Exclude: Outcome,2020,32926507,https://pubmed.ncbi.nlm.nih.gov/32926507/
+66,Exclude: Study design,2020,32880601,https://pubmed.ncbi.nlm.nih.gov/32880601/
+67,Exclude: Study design,2020,32878814,https://pubmed.ncbi.nlm.nih.gov/32878814/
+68,Exclude: Outcome,2020,32861806,https://pubmed.ncbi.nlm.nih.gov/32861806/
+70,Exclude: Outcome,2020,32828825,https://pubmed.ncbi.nlm.nih.gov/32828825/
+78,Exclude: Publication,2020,32698790,https://pubmed.ncbi.nlm.nih.gov/32698790/
+87,Exclude: Outcome,2020,32594273,https://pubmed.ncbi.nlm.nih.gov/32594273/
+89,Exclude: Outcome,2020,32583557,https://pubmed.ncbi.nlm.nih.gov/32583557/
+90,Exclude: Outcome,2020,32578279,https://pubmed.ncbi.nlm.nih.gov/32578279/
+91,Exclude: Intervention,2020,32565388,https://pubmed.ncbi.nlm.nih.gov/32565388/
+103,Exclude: Publication,2020,32449003,https://pubmed.ncbi.nlm.nih.gov/32449003/
+111,Exclude: Publication,2020,32374623,https://pubmed.ncbi.nlm.nih.gov/32374623/
+116,Exclude: Publication,2020,32334548,https://pubmed.ncbi.nlm.nih.gov/32334548/
+117,Exclude: Outcome,2020,32323103,https://pubmed.ncbi.nlm.nih.gov/32323103/
+118,Exclude: Study design,2020,32319740,https://pubmed.ncbi.nlm.nih.gov/32319740/
+129,Exclude: Study design,2020,32212800,https://pubmed.ncbi.nlm.nih.gov/32212800/
+132,Exclude: Study design,2020,32173464,https://pubmed.ncbi.nlm.nih.gov/32173464/
+134,Exclude: Study design,2020,32162804,https://pubmed.ncbi.nlm.nih.gov/32162804/
+137,Exclude: Intervention,2020,32083990,https://pubmed.ncbi.nlm.nih.gov/32083990/
+154,Exclude: Study design,2020,31864178,https://pubmed.ncbi.nlm.nih.gov/31864178/
+157,Exclude: Study design,2020,31830211,https://pubmed.ncbi.nlm.nih.gov/31830211/
+168,Exclude: Outcome,2020,31751012,https://pubmed.ncbi.nlm.nih.gov/31751012/
+171,Exclude: Outcome,2020,31732098,https://pubmed.ncbi.nlm.nih.gov/31732098/
+173,Exclude: Study design,2020,31707767,https://pubmed.ncbi.nlm.nih.gov/31707767/
+188,Exclude: Study design,2020,31605792,https://pubmed.ncbi.nlm.nih.gov/31605792/
+196,Exclude: Patient,2019,31562043,https://pubmed.ncbi.nlm.nih.gov/31562043/
+197,Exclude: Outcome,2019,31553438,https://pubmed.ncbi.nlm.nih.gov/31553438/
+199,Exclude: Outcome,2019,31533777,https://pubmed.ncbi.nlm.nih.gov/31533777/
+208,Exclude: Study design,2020,31399906,https://pubmed.ncbi.nlm.nih.gov/31399906/
+210,Exclude: Outcome,2019,31345627,https://pubmed.ncbi.nlm.nih.gov/31345627/
+211,Exclude: Study design,2019,31340094,https://pubmed.ncbi.nlm.nih.gov/31340094/
+213,Exclude: Study design,2019,31331699,https://pubmed.ncbi.nlm.nih.gov/31331699/
+216,Exclude: Study design,2019,31216226,https://pubmed.ncbi.nlm.nih.gov/31216226/
+227,Exclude: Publication,2019,31122212,https://pubmed.ncbi.nlm.nih.gov/31122212/
+228,Exclude: Intervention,2019,31120501,https://pubmed.ncbi.nlm.nih.gov/31120501/
+234,Exclude: Publication,2019,31074641,https://pubmed.ncbi.nlm.nih.gov/31074641/
+254,Exclude: Study design,2019,30892987,https://pubmed.ncbi.nlm.nih.gov/30892987/
+258,Exclude: Study design,2019,30851442,https://pubmed.ncbi.nlm.nih.gov/30851442/
+261,Exclude: Study design,2019,30811280,https://pubmed.ncbi.nlm.nih.gov/30811280/
+266,Exclude: Study design,2019,30783814,https://pubmed.ncbi.nlm.nih.gov/30783814/
+286,Exclude: Intervention,2019,30591959,https://pubmed.ncbi.nlm.nih.gov/30591959/
+292,Exclude: Study design,2019,30562710,https://pubmed.ncbi.nlm.nih.gov/30562710/
+293,Exclude: Study design,2019,30557850,https://pubmed.ncbi.nlm.nih.gov/30557850/
+296,Exclude: Study design,2018,30527177,https://pubmed.ncbi.nlm.nih.gov/30527177/
+297,Exclude: Study design,2019,30508156,https://pubmed.ncbi.nlm.nih.gov/30508156/
+298,Exclude: Study design,2019,30516328,https://pubmed.ncbi.nlm.nih.gov/30516328/
+300,Exclude: Publication,2018,30509312,https://pubmed.ncbi.nlm.nih.gov/30509312/
+304,Exclude: Study design,2018,30429032,https://pubmed.ncbi.nlm.nih.gov/30429032/
+308,Exclude: Patient,2018,30414528,https://pubmed.ncbi.nlm.nih.gov/30414528/
+311,Exclude: Publication,2019,30379568,https://pubmed.ncbi.nlm.nih.gov/30379568/
+312,Exclude: Publication,2019,30362375,https://pubmed.ncbi.nlm.nih.gov/30362375/
+313,Exclude: Patient,2019,30347019,https://pubmed.ncbi.nlm.nih.gov/30347019/
+315,Exclude: Publication,2018,30295796,https://pubmed.ncbi.nlm.nih.gov/30295796/
+323,Exclude: Outcome,2018,30219628,https://pubmed.ncbi.nlm.nih.gov/30219628/
+324,Exclude: Patient,2018,30217492,https://pubmed.ncbi.nlm.nih.gov/30217492/
+330,Exclude: Study design,2018,30145148,https://pubmed.ncbi.nlm.nih.gov/30145148/
+335,Exclude: Outcome,2018,30098982,https://pubmed.ncbi.nlm.nih.gov/30098982/
+336,Exclude: Outcome,2018,30096704,https://pubmed.ncbi.nlm.nih.gov/30096704/
+339,Exclude: Study design,2017,30082554,https://pubmed.ncbi.nlm.nih.gov/30082554/
+341,Exclude: Publication,2018,30064406,https://pubmed.ncbi.nlm.nih.gov/30064406/
+345,Exclude: Outcome,2018,30032816,https://pubmed.ncbi.nlm.nih.gov/30032816/
+346,Exclude: Publication,2018,30020510,https://pubmed.ncbi.nlm.nih.gov/30020510/
+348,Exclude: Study design,2018,29988111,https://pubmed.ncbi.nlm.nih.gov/29988111/
+362,Exclude: Outcome,2018,29768118,https://pubmed.ncbi.nlm.nih.gov/29768118/
+365,Exclude: Intervention,2018,29746229,https://pubmed.ncbi.nlm.nih.gov/29746229/
+370,Exclude: Study design,2018,29697876,https://pubmed.ncbi.nlm.nih.gov/29697876/
+377,Exclude: Outcome,2018,29576624,https://pubmed.ncbi.nlm.nih.gov/29576624/
+383,Exclude: Outcome,2018,29547834,https://pubmed.ncbi.nlm.nih.gov/29547834/
+401,Exclude: Publication,2018,29409778,https://pubmed.ncbi.nlm.nih.gov/29409778/
+405,Exclude: Study design,2018,29370992,https://pubmed.ncbi.nlm.nih.gov/29370992/
+406,Exclude: Publication,2018,29370781,https://pubmed.ncbi.nlm.nih.gov/29370781/
+410,Exclude: Patient,2018,29275119,https://pubmed.ncbi.nlm.nih.gov/29275119/
+414,Exclude: Publication,2018,29258812,https://pubmed.ncbi.nlm.nih.gov/29258812/
+415,Exclude: Retracted paper,2018,29244528,https://pubmed.ncbi.nlm.nih.gov/29244528/
+425,Exclude: Outcome,2017,29129441,https://pubmed.ncbi.nlm.nih.gov/29129441/
+428,Exclude: Study design,2018,29106665,https://pubmed.ncbi.nlm.nih.gov/29106665/
+429,Exclude: Study design,2018,29075780,https://pubmed.ncbi.nlm.nih.gov/29075780/
+430,Exclude: Intervention,2018,29069370,https://pubmed.ncbi.nlm.nih.gov/29069370/
+433,Exclude: Study design,2018,29043496,https://pubmed.ncbi.nlm.nih.gov/29043496/
+435,Exclude: Outcome,2017,29033099,https://pubmed.ncbi.nlm.nih.gov/29033099/
+436,Exclude: Study design,2017,29023213,https://pubmed.ncbi.nlm.nih.gov/29023213/
+439,Exclude: Outcome,2017,28987768,https://pubmed.ncbi.nlm.nih.gov/28987768/
+440,Exclude: Study design,2017,28982882,https://pubmed.ncbi.nlm.nih.gov/28982882/
+442,Exclude: Study design,2017,28968167,https://pubmed.ncbi.nlm.nih.gov/28968167/
+443,Exclude: Outcome,2017,28961848,https://pubmed.ncbi.nlm.nih.gov/28961848/
+450,Exclude: Outcome,2017,28911067,https://pubmed.ncbi.nlm.nih.gov/28911067/
+454,Exclude: Study design,2017,28874797,https://pubmed.ncbi.nlm.nih.gov/28874797/
+455,Exclude: Study design,2017,28870954,https://pubmed.ncbi.nlm.nih.gov/28870954/
+458,Exclude: Study design,2017,28835513,https://pubmed.ncbi.nlm.nih.gov/28835513/
+460,Exclude: Study design,2018,28827103,https://pubmed.ncbi.nlm.nih.gov/28827103/
+463,Exclude: Publication,2017,28814275,https://pubmed.ncbi.nlm.nih.gov/28814275/
+464,Exclude: Study design,2017,28780479,https://pubmed.ncbi.nlm.nih.gov/28780479/
+465,Exclude: Study design,2017,28760403,https://pubmed.ncbi.nlm.nih.gov/28760403/
+468,Exclude: Study design,2017,28756607,https://pubmed.ncbi.nlm.nih.gov/28756607/
+473,Exclude: Study design,2018,28701030,https://pubmed.ncbi.nlm.nih.gov/28701030/
+479,Exclude: Outcome,2017,28651929,https://pubmed.ncbi.nlm.nih.gov/28651929/
+481,Exclude: Outcome,2017,28651804,https://pubmed.ncbi.nlm.nih.gov/28651804/
+482,Exclude: Study design,2017,28651159,https://pubmed.ncbi.nlm.nih.gov/28651159/
+483,Exclude: Outcome,2017,28648618,https://pubmed.ncbi.nlm.nih.gov/28648618/
+487,Exclude: Study design,2017,28632486,https://pubmed.ncbi.nlm.nih.gov/28632486/
+490,Exclude: Publication,2017,28623122,https://pubmed.ncbi.nlm.nih.gov/28623122/
+498,Exclude: Outcome,2017,28534153,https://pubmed.ncbi.nlm.nih.gov/28534153/
+499,Exclude: Outcome,2017,28526538,https://pubmed.ncbi.nlm.nih.gov/28526538/
+503,Exclude: Study design,2017,28475456,https://pubmed.ncbi.nlm.nih.gov/28475456/
+518,Exclude: Publication,2017,28341106,https://pubmed.ncbi.nlm.nih.gov/28341106/
+519,Exclude: Outcome,2017,28339098,https://pubmed.ncbi.nlm.nih.gov/28339098/
+520,Exclude: Intervention,2017,28334771,https://pubmed.ncbi.nlm.nih.gov/28334771/
+525,Exclude: Patient,2017,28289865,https://pubmed.ncbi.nlm.nih.gov/28289865/
+527,Exclude: Outcome,2017,28283282,https://pubmed.ncbi.nlm.nih.gov/28283282/
+528,Exclude: Outcome,2017,28259608,https://pubmed.ncbi.nlm.nih.gov/28259608/
+540,Exclude: Study design,2017,28179454,https://pubmed.ncbi.nlm.nih.gov/28179454/
+554,Exclude: Intervention,2017,28031424,https://pubmed.ncbi.nlm.nih.gov/28031424/
+591,Exclude: Outcome,2016,27603424,https://pubmed.ncbi.nlm.nih.gov/27603424/
+616,Exclude: Publication,2016,27259714,https://pubmed.ncbi.nlm.nih.gov/27259714/
+617,Exclude: Publication,2016,27246726,https://pubmed.ncbi.nlm.nih.gov/27246726/
+620,Exclude: Publication,2016,27209164,https://pubmed.ncbi.nlm.nih.gov/27209164/
+624,Exclude: Intervention,2016,27125966,https://pubmed.ncbi.nlm.nih.gov/27125966/
+627,Exclude: Outcome,2016,27101581,https://pubmed.ncbi.nlm.nih.gov/27101581/
+634,Exclude: Intervention,2016,27044933,https://pubmed.ncbi.nlm.nih.gov/27044933/
+642,Exclude: Study design,2016,26951379,https://pubmed.ncbi.nlm.nih.gov/26951379/
+644,Exclude: Intervention,2016,26946985,https://pubmed.ncbi.nlm.nih.gov/26946985/
+652,Exclude: Outcome,2016,26894413,https://pubmed.ncbi.nlm.nih.gov/26894413/
+654,Exclude: Intervention,2016,26884557,https://pubmed.ncbi.nlm.nih.gov/26884557/
+656,Exclude: Patient,2016,26874885,https://pubmed.ncbi.nlm.nih.gov/26874885/
+664,Exclude: Study design,2016,26806397,https://pubmed.ncbi.nlm.nih.gov/26806397/
+665,Exclude: Outcome,2016,26782346,https://pubmed.ncbi.nlm.nih.gov/26782346/
+669,Exclude: Outcome,2016,26725183,https://pubmed.ncbi.nlm.nih.gov/26725183/
+686,Exclude: Publication,2015,26576593,https://pubmed.ncbi.nlm.nih.gov/26576593/
+687,Exclude: Outcome,2015,26567010,https://pubmed.ncbi.nlm.nih.gov/26567010/
+691,Exclude: Outcome,2016,26520703,https://pubmed.ncbi.nlm.nih.gov/26520703/
+701,Exclude: Publication,2015,26445094,https://pubmed.ncbi.nlm.nih.gov/26445094/
+702,Exclude: Study design,2015,26439700,https://pubmed.ncbi.nlm.nih.gov/26439700/
+704,Exclude: Outcome,2015,26433819,https://pubmed.ncbi.nlm.nih.gov/26433819/
+712,Exclude: Outcome,2015,26371134,https://pubmed.ncbi.nlm.nih.gov/26371134/
+715,Exclude: Intervention,2015,26347110,https://pubmed.ncbi.nlm.nih.gov/26347110/
+716,Exclude: Intervention,2015,26347109,https://pubmed.ncbi.nlm.nih.gov/26347109/
+718,Exclude: Study design,2015,26338525,https://pubmed.ncbi.nlm.nih.gov/26338525/
+720,Exclude: Study design,2015,26323921,https://pubmed.ncbi.nlm.nih.gov/26323921/
+721,Exclude: Study design,2015,26306902,https://pubmed.ncbi.nlm.nih.gov/26306902/
+724,Exclude: Publication,2015,26282651,https://pubmed.ncbi.nlm.nih.gov/26282651/
+725,Exclude: Outcome,2015,26244877,https://pubmed.ncbi.nlm.nih.gov/26244877/
+726,Exclude: Publication,2015,28162292,https://pubmed.ncbi.nlm.nih.gov/28162292/
+729,Exclude: Study design,2015,26215950,https://pubmed.ncbi.nlm.nih.gov/26215950/
+730,Exclude: Outcome,2015,26207902,https://pubmed.ncbi.nlm.nih.gov/26207902/
+736,Exclude: Publication,2015,26141683,https://pubmed.ncbi.nlm.nih.gov/26141683/
+737,Exclude: Outcome,2015,26141208,https://pubmed.ncbi.nlm.nih.gov/26141208/
+753,Exclude: Study design,2015,26082390,https://pubmed.ncbi.nlm.nih.gov/26082390/
+756,Exclude: Intervention,2015,26077235,https://pubmed.ncbi.nlm.nih.gov/26077235/
+764,Exclude: Outcome,2015,26033708,https://pubmed.ncbi.nlm.nih.gov/26033708/
+765,Exclude: Intervention,2015,26028518,https://pubmed.ncbi.nlm.nih.gov/26028518/
+768,Exclude: Outcome,2015,26024831,https://pubmed.ncbi.nlm.nih.gov/26024831/
+770,Exclude: Outcome,2015,26010884,https://pubmed.ncbi.nlm.nih.gov/26010884/
+774,Exclude: Study design,2015,25952317,https://pubmed.ncbi.nlm.nih.gov/25952317/
+779,Exclude: Outcome,2015,25925891,https://pubmed.ncbi.nlm.nih.gov/25925891/
+783,Exclude: Outcome,2015,25899986,https://pubmed.ncbi.nlm.nih.gov/25899986/
+797,Exclude: Outcome,2015,25847934,https://pubmed.ncbi.nlm.nih.gov/25847934/
+798,Exclude: Intervention,2015,25843292,https://pubmed.ncbi.nlm.nih.gov/25843292/
+802,Exclude: Intervention,2015,25794457,https://pubmed.ncbi.nlm.nih.gov/25794457/
+813,Exclude: Study design,2015,25747197,https://pubmed.ncbi.nlm.nih.gov/25747197/
+817,Exclude: Outcome,2014,25721356,https://pubmed.ncbi.nlm.nih.gov/25721356/
+819,Exclude: Outcome,2015,25698450,https://pubmed.ncbi.nlm.nih.gov/25698450/
+824,Exclude: Study design,2015,25675123,https://pubmed.ncbi.nlm.nih.gov/25675123/
+826,Exclude: Outcome,2015,25664394,https://pubmed.ncbi.nlm.nih.gov/25664394/
+829,Exclude: Publication,2015,25646357,https://pubmed.ncbi.nlm.nih.gov/25646357/
+830,Exclude: Outcome,2015,25638248,https://pubmed.ncbi.nlm.nih.gov/25638248/
+834,Exclude: Study design,2015,25616430,https://pubmed.ncbi.nlm.nih.gov/25616430/
+835,Exclude: Outcome,2015,25611228,https://pubmed.ncbi.nlm.nih.gov/25611228/
+849,Exclude: Outcome,2015,25557266,https://pubmed.ncbi.nlm.nih.gov/25557266/
+856,Exclude: Publication,2015,25516635,https://pubmed.ncbi.nlm.nih.gov/25516635/
+867,Exclude: Intervention,2015,25457497,https://pubmed.ncbi.nlm.nih.gov/25457497/
+870,Exclude: Study design,2015,25452452,https://pubmed.ncbi.nlm.nih.gov/25452452/
+872,Exclude: Study design,2015,25439612,https://pubmed.ncbi.nlm.nih.gov/25439612/
+883,Exclude: Intervention,2014,25349302,https://pubmed.ncbi.nlm.nih.gov/25349302/
+886,Exclude: Study design,2014,25342504,https://pubmed.ncbi.nlm.nih.gov/25342504/
+888,Exclude: Publication,2015,25332420,https://pubmed.ncbi.nlm.nih.gov/25332420/
+890,Exclude: Intervention,2014,25304851,https://pubmed.ncbi.nlm.nih.gov/25304851/
+891,Exclude: Outcome,2015,25301758,https://pubmed.ncbi.nlm.nih.gov/25301758/
+897,Exclude: Publication,2014,25273077,https://pubmed.ncbi.nlm.nih.gov/25273077/
+898,Exclude: Publication,2015,25269383,https://pubmed.ncbi.nlm.nih.gov/25269383/
+900,Exclude: Publication,2014,25239521,https://pubmed.ncbi.nlm.nih.gov/25239521/
+904,Exclude: Study design,2015,25195590,https://pubmed.ncbi.nlm.nih.gov/25195590/
+908,Exclude: Intervention,2015,25163397,https://pubmed.ncbi.nlm.nih.gov/25163397/
+912,Exclude: Study design,2014,25096168,https://pubmed.ncbi.nlm.nih.gov/25096168/
+914,Exclude: Study design,2014,25082565,https://pubmed.ncbi.nlm.nih.gov/25082565/
+915,Exclude: Outcome,2014,25069747,https://pubmed.ncbi.nlm.nih.gov/25069747/
+922,Exclude: Not in English,2014,24997825,https://pubmed.ncbi.nlm.nih.gov/24997825/
+926,Exclude: Outcome,2014,24981311,https://pubmed.ncbi.nlm.nih.gov/24981311/
+928,Exclude: Publication,2014,24973959,https://pubmed.ncbi.nlm.nih.gov/24973959/
+929,Exclude: Outcome,2015,24968970,https://pubmed.ncbi.nlm.nih.gov/24968970/
+939,Exclude: Study design,2014,24894652,https://pubmed.ncbi.nlm.nih.gov/24894652/
+941,Exclude: Intervention,2014,24888818,https://pubmed.ncbi.nlm.nih.gov/24888818/
+945,Exclude: Study design,2014,24852116,https://pubmed.ncbi.nlm.nih.gov/24852116/
+950,Exclude: Intervention,2013,24821009,https://pubmed.ncbi.nlm.nih.gov/24821009/
+962,Exclude: Intervention,2014,24703531,https://pubmed.ncbi.nlm.nih.gov/24703531/
+963,Exclude: Not in English,2014,24698672,https://pubmed.ncbi.nlm.nih.gov/24698672/
+964,Exclude: Outcome,2014,24692735,https://pubmed.ncbi.nlm.nih.gov/24692735/
+969,Exclude: Outcome,2014,24671507,https://pubmed.ncbi.nlm.nih.gov/24671507/
+1002,Exclude: Intervention,2014,24384495,https://pubmed.ncbi.nlm.nih.gov/24384495/
+1020,Exclude: Publication,2014,24246407,https://pubmed.ncbi.nlm.nih.gov/24246407/
+1021,Exclude: Outcome,2013,24244261,https://pubmed.ncbi.nlm.nih.gov/24244261/
+1040,Exclude: Outcome,2013,24063860,https://pubmed.ncbi.nlm.nih.gov/24063860/
+1044,Exclude: Outcome,2013,24014884,https://pubmed.ncbi.nlm.nih.gov/24014884/
+1048,Exclude: Outcome,2013,23989947,https://pubmed.ncbi.nlm.nih.gov/23989947/
+1060,Exclude: Outcome,2013,23860520,https://pubmed.ncbi.nlm.nih.gov/23860520/
+1067,Exclude: Outcome,2013,23817692,https://pubmed.ncbi.nlm.nih.gov/23817692/
+1088,Exclude: Study design,2013,23635560,https://pubmed.ncbi.nlm.nih.gov/23635560/
+1096,Exclude: Study design,2013,23576138,https://pubmed.ncbi.nlm.nih.gov/23576138/
+1099,Exclude: Study design,2013,23559149,https://pubmed.ncbi.nlm.nih.gov/23559149/
+1100,Exclude: Study design,2013,23546172,https://pubmed.ncbi.nlm.nih.gov/23546172/
+1101,Exclude: Study design,2013,23545279,https://pubmed.ncbi.nlm.nih.gov/23545279/
+1104,Exclude: Intervention,2013,23475103,https://pubmed.ncbi.nlm.nih.gov/23475103/
+1108,Exclude: Outcome,2013,23419284,https://pubmed.ncbi.nlm.nih.gov/23419284/
+1110,Exclude: Intervention,2012,23406994,https://pubmed.ncbi.nlm.nih.gov/23406994/
+1113,Exclude: Intervention,2013,23396206,https://pubmed.ncbi.nlm.nih.gov/23396206/
+1118,Exclude: Study design,2013,23352604,https://pubmed.ncbi.nlm.nih.gov/23352604/
+1119,Exclude: Study design,2013,23332288,https://pubmed.ncbi.nlm.nih.gov/23332288/
+1121,Exclude: Outcome,2013,23325582,https://pubmed.ncbi.nlm.nih.gov/23325582/
+1123,Exclude: Study design,2013,23299530,https://pubmed.ncbi.nlm.nih.gov/23299530/
+1126,Exclude: Intervention,2013,23293111,https://pubmed.ncbi.nlm.nih.gov/23293111/
+1129,Exclude: Outcome,2013,23281263,https://pubmed.ncbi.nlm.nih.gov/23281263/
+1152,Exclude: Study design,2013,22964169,https://pubmed.ncbi.nlm.nih.gov/22964169/
+1159,Exclude: Intervention,2013,22892060,https://pubmed.ncbi.nlm.nih.gov/22892060/
+1162,Exclude: Study design,2012,22855138,https://pubmed.ncbi.nlm.nih.gov/22855138/
+1164,Exclude: Publication,2012,22849580,https://pubmed.ncbi.nlm.nih.gov/22849580/
+1166,Exclude: Publication,2012,22824079,https://pubmed.ncbi.nlm.nih.gov/22824079/
+1167,Exclude: Outcome,2012,22810591,https://pubmed.ncbi.nlm.nih.gov/22810591/
+1173,Exclude: Outcome,2012,22759880,https://pubmed.ncbi.nlm.nih.gov/22759880/
+1179,Exclude: Outcome,2012,22728026,https://pubmed.ncbi.nlm.nih.gov/22728026/
+1188,Exclude: Study design,2012,22640829,https://pubmed.ncbi.nlm.nih.gov/22640829/
+1199,Exclude: Outcome,2012,22541893,https://pubmed.ncbi.nlm.nih.gov/22541893/
+1202,Exclude: Outcome,2012,22526159,https://pubmed.ncbi.nlm.nih.gov/22526159/
+1219,Exclude: Outcome,2012,22353807,https://pubmed.ncbi.nlm.nih.gov/22353807/
+1222,Exclude: Outcome,2012,22315155,https://pubmed.ncbi.nlm.nih.gov/22315155/
+1240,Exclude: Publication,2012,22167662,https://pubmed.ncbi.nlm.nih.gov/22167662/
+1259,Exclude: Outcome,2011,21975350,https://pubmed.ncbi.nlm.nih.gov/21975350/
+1261,Exclude: Patient,2012,21948942,https://pubmed.ncbi.nlm.nih.gov/21948942/
+1271,Exclude: Publication,2011,21861888,https://pubmed.ncbi.nlm.nih.gov/21861888/
+1272,Exclude: Outcome,2011,21861128,https://pubmed.ncbi.nlm.nih.gov/21861128/
+1277,Exclude: Not available,2011,21797111,https://pubmed.ncbi.nlm.nih.gov/21797111/
+1280,Exclude: Outcome,2011,21744082,https://pubmed.ncbi.nlm.nih.gov/21744082/
+1282,Exclude: Outcome,2011,21741829,https://pubmed.ncbi.nlm.nih.gov/21741829/
+1283,Exclude: Outcome,2012,21739158,https://pubmed.ncbi.nlm.nih.gov/21739158/
+1291,Exclude: Study design,2011,21670455,https://pubmed.ncbi.nlm.nih.gov/21670455/
+1312,Exclude: Study design,2011,21514147,https://pubmed.ncbi.nlm.nih.gov/21514147/
+1315,Exclude: Outcome,2011,21483004,https://pubmed.ncbi.nlm.nih.gov/21483004/
+1321,Exclude: Study design,2012,21424698,https://pubmed.ncbi.nlm.nih.gov/21424698/
+1325,Exclude: Outcome,2011,21409383,https://pubmed.ncbi.nlm.nih.gov/21409383/
+1330,Exclude: Study design,2010,21358208,https://pubmed.ncbi.nlm.nih.gov/21358208/
+1331,Exclude: Study design,2010,21358207,https://pubmed.ncbi.nlm.nih.gov/21358207/
+1337,Exclude: Intervention,2011,21285990,https://pubmed.ncbi.nlm.nih.gov/21285990/
+1339,Exclude: Study design,2011,21282542,https://pubmed.ncbi.nlm.nih.gov/21282542/
+1343,Exclude: Intervention,2011,21251813,https://pubmed.ncbi.nlm.nih.gov/21251813/
+1351,Exclude: Study design,2010,21147867,https://pubmed.ncbi.nlm.nih.gov/21147867/
+1360,Exclude: Study design,2011,21078826,https://pubmed.ncbi.nlm.nih.gov/21078826/
+1361,Exclude: Study design,2010,21071270,https://pubmed.ncbi.nlm.nih.gov/21071270/
+1362,Exclude: Publication,2011,21068025,https://pubmed.ncbi.nlm.nih.gov/21068025/
+1369,Exclude: Outcome,2010,20952020,https://pubmed.ncbi.nlm.nih.gov/20952020/
+1375,Exclude: Outcome,2010,20888993,https://pubmed.ncbi.nlm.nih.gov/20888993/
+1379,Exclude: Patient,2010,20879881,https://pubmed.ncbi.nlm.nih.gov/20879881/
+1381,Exclude: Not available,2010,20864916,https://pubmed.ncbi.nlm.nih.gov/20864916/
+1386,Exclude: Patient,2012,20842406,https://pubmed.ncbi.nlm.nih.gov/20842406/
+1387,Exclude: Study design,2010,20837952,https://pubmed.ncbi.nlm.nih.gov/20837952/
+1388,Exclude: Publication,2010,20837462,https://pubmed.ncbi.nlm.nih.gov/20837462/
+1389,Exclude: Outcome,2010,20837359,https://pubmed.ncbi.nlm.nih.gov/20837359/
+1392,Exclude: Study design,2010,20727460,https://pubmed.ncbi.nlm.nih.gov/20727460/
+1396,Exclude: Outcome,2010,20736298,https://pubmed.ncbi.nlm.nih.gov/20736298/
+1407,Exclude: Outcome,2010,20680680,https://pubmed.ncbi.nlm.nih.gov/20680680/
+1408,Exclude: Outcome,2010,20679619,https://pubmed.ncbi.nlm.nih.gov/20679619/
+1412,Exclude: Outcome,2010,20647477,https://pubmed.ncbi.nlm.nih.gov/20647477/
+1414,Exclude: Publication,2010,20630899,https://pubmed.ncbi.nlm.nih.gov/20630899/
+1416,Exclude: Outcome,2010,20606094,https://pubmed.ncbi.nlm.nih.gov/20606094/
+1420,Exclude: Patient,2010,20582466,https://pubmed.ncbi.nlm.nih.gov/20582466/
+1424,Exclude: Intervention,2010,20530973,https://pubmed.ncbi.nlm.nih.gov/20530973/
+1427,Exclude: Study design,2010,20525992,https://pubmed.ncbi.nlm.nih.gov/20525992/
+1429,Exclude: Intervention,2010,20519679,https://pubmed.ncbi.nlm.nih.gov/20519679/
+1433,Exclude: Outcome,2010,20497961,https://pubmed.ncbi.nlm.nih.gov/20497961/
+1434,Exclude: Intervention,2010,20483152,https://pubmed.ncbi.nlm.nih.gov/20483152/
+1435,Exclude: Patient,2010,20473913,https://pubmed.ncbi.nlm.nih.gov/20473913/
+1437,Exclude: Outcome,2010,20461090,https://pubmed.ncbi.nlm.nih.gov/20461090/
+1439,Exclude: Study design,2011,20458210,https://pubmed.ncbi.nlm.nih.gov/20458210/
+1440,Exclude: Outcome,2010,20454927,https://pubmed.ncbi.nlm.nih.gov/20454927/
+1441,Exclude: Study design,2010,20453635,https://pubmed.ncbi.nlm.nih.gov/20453635/
+1442,Exclude: Study design,2010,20439345,https://pubmed.ncbi.nlm.nih.gov/20439345/
+1445,Exclude: Study design,2010,20368558,https://pubmed.ncbi.nlm.nih.gov/20368558/
+1447,Exclude: Study design,2010,20354522,https://pubmed.ncbi.nlm.nih.gov/20354522/
+1449,Exclude: Study design,2010,20351325,https://pubmed.ncbi.nlm.nih.gov/20351325/
+1451,Exclude: Study design,2011,20336348,https://pubmed.ncbi.nlm.nih.gov/20336348/
+1452,Exclude: Study design,2010,20335368,https://pubmed.ncbi.nlm.nih.gov/20335368/
+1457,Exclude: Study design,2010,20178647,https://pubmed.ncbi.nlm.nih.gov/20178647/
+1469,Exclude: Study design,2010,20100959,https://pubmed.ncbi.nlm.nih.gov/20100959/
+1472,Exclude: Study design,2010,20068567,https://pubmed.ncbi.nlm.nih.gov/20068567/
+1481,Exclude: Intervention,2010,20008644,https://pubmed.ncbi.nlm.nih.gov/20008644/
+1482,Exclude: Study design,2010,19917571,https://pubmed.ncbi.nlm.nih.gov/19917571/
+1483,Exclude: Study design,2010,19910076,https://pubmed.ncbi.nlm.nih.gov/19910076/
+1484,Exclude: Study design,2010,19906761,https://pubmed.ncbi.nlm.nih.gov/19906761/
+1485,Exclude: Study design,2010,19841330,https://pubmed.ncbi.nlm.nih.gov/19841330/
+1486,Exclude: Study design,2010,19833819,https://pubmed.ncbi.nlm.nih.gov/19833819/
+1488,Exclude: Study design,2010,19815651,https://pubmed.ncbi.nlm.nih.gov/19815651/
+1489,Exclude: Study design,2010,19779715,https://pubmed.ncbi.nlm.nih.gov/19779715/
+1492,Exclude: Study design,2011,19714296,https://pubmed.ncbi.nlm.nih.gov/19714296/
+1493,Exclude: Study design,2010,19713248,https://pubmed.ncbi.nlm.nih.gov/19713248/
+1495,Exclude: Study design,2010,19651523,https://pubmed.ncbi.nlm.nih.gov/19651523/
+1500,Exclude: Intervention,2010,19575284,https://pubmed.ncbi.nlm.nih.gov/19575284/
+1505,Exclude: Patient,2010,19238327,https://pubmed.ncbi.nlm.nih.gov/19238327/
+1507,Exclude: Outcome,2016,27155740,https://pubmed.ncbi.nlm.nih.gov/27155740/
+1512,Exclude: Study design,2018,29151359,https://pubmed.ncbi.nlm.nih.gov/29151359/
+1516,Exclude: Study design,2020,32067679,https://pubmed.ncbi.nlm.nih.gov/32067679/
+1517,Exclude: Study design,2013,23918947,https://pubmed.ncbi.nlm.nih.gov/23918947/
